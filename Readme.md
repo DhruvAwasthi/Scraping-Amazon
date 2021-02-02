@@ -78,7 +78,7 @@ It can be used to fetch reviews from `amazon.com` with some minute changes.
 
 ## Author:  
 - [Dhruv Awasthi](https://www.linkedin.com/in/dhruv-awasthi/)
-- GitHub profile [link](https://github.com/DhruvAwasthi)  
+- [GitHub profile link](https://github.com/DhruvAwasthi)  
 
 ## License:  
 ```
